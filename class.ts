@@ -36,3 +36,4 @@ let x=p.x;
 
 console.log('The value of x of object p is: '+x);
 //p.x=40 will generate an error because x and y are private and can only be accessed within the class Point
+ 
